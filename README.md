@@ -28,6 +28,6 @@ if(StrContains(sMap, "surf_utopia_v3"))
 	CPrintToChat(client, "%s {default}Current map does not have Golden Knife!", g_sPluginTag);
 	return Plugin_Handled;
 } 
-	// -------------------------------------------------------------------------------------------------------
+// -------------------------------------------------------------------------------------------------------
  ```
  copy and paste it then change surf_utopia_v3 to the map of your choice 
