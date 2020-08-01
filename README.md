@@ -15,9 +15,3 @@ csgo/addons/sourcemod/plugins
 ```
 
 
-## Maps
-Currently only maps supported are 
-```bash
-surf_utopia_v3
-```
-
